@@ -8,8 +8,10 @@ http://sakurasort.github.io/
 - Girl’s Reform Manifest - Album
 - Reborn Superstar! - Album
 
-- Others:
+- SINGLES:
 - Love Ranbu
+
+- Crash Over
 - Sweetskiller
 - Babylon
 
