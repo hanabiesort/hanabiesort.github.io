@@ -65,7 +65,7 @@ var ary_CharacterData = [
 
   [1, "LOVE  Ranbu",                 			[0,0,0,1,0,0,0,0,0,0], "hanabiesong/loveranb.jpg"],
   
-  [1, "Cherry Blossoms Are Blooming", 			[1,0,0,0,0,0,0,0,0,0], "hanabiesong/cherry.jpg"],
+  [1, "Cherry Blossoms Are Blooming Instrumental", 			[1,0,0,0,0,0,0,0,0,0], "hanabiesong/cherry.jpg"],
   [1, "Envy",                 					[1,0,0,0,0,0,0,0,0,0], "hanabiesong/cherry.jpg"],
   [1, "Time Out",                 				[1,0,0,0,0,0,0,0,0,0], "hanabiesong/cherry.jpg"],
   [1, "Ghost Mania",                 			[1,0,0,0,0,0,0,0,0,0], "hanabiesong/cherry.jpg"],
