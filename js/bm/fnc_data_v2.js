@@ -47,7 +47,7 @@ var ary_CharacterData = [
   [1, "Reiwa dating apps generation",                   [1,0,0,0,0,0,0,0,0,0], "hanabiesong/reform.jpg"],
   [1, "Invisible wall",          [1,0,0,0,0,0,0,0,0,0], "hanabiesong/reform.jpg"],
   [1, "We love sweets",         [1,0,0,0,0,0,0,0,0,0], "hanabiesong/reform.jpg"],
-  [1, "L.C.G",                   [1,0,0,0,0,0,0,0,0,0], "hanabiesong/reform.jpg"],
+  [1, "L.C.G (2019mix)",                   [1,0,0,0,0,0,0,0,0,0], "hanabiesong/reform.jpg"],
   [1, "Genkai numa life",           [1,0,0,0,0,0,0,0,0,0], "hanabiesong/reform.jpg"],
   [1, "Want to TIE-UP",        [1,0,0,0,0,0,0,0,0,0], "hanabiesong/reform.jpg"],
 
