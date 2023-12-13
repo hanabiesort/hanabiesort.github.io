@@ -62,8 +62,7 @@ var ary_CharacterData = [
   [1, "Tousou",        							[0,0,1,0,0,0,0,0,0,0], "hanabiesong/reborn.jpg"],
   [1, "お先に失礼します。 (Pardon Me, I Have To Go Now)", [0,0,1,0,0,0,0,0,0,0], "hanabiesong/osaki.jpg"],
   [1, "Today’s Good Day & So Epic", 			[0,0,1,0,0,0,0,0,0,0], "hanabiesong/reborn.jpg"],
-  
-  [1, "L.C.G",                 					[0,0,0,1,0,0,0,0,0,0], "hanabiesong/lcg.jpg"],
+
   [1, "LOVE  Ranbu",                 			[0,0,0,1,0,0,0,0,0,0], "hanabiesong/loveranb.jpg"],
   
   [1, "Cherry Blossoms Are Blooming", 			[1,0,0,0,0,0,0,0,0,0], "hanabiesong/cherry.jpg"],
