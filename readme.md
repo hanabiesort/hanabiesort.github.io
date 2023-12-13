@@ -11,7 +11,7 @@ http://sakurasort.github.io/
 - SINGLES:
 - Love Ranbu
 
-- Crash Over
+- Crash Over:
 - Sweetskiller
 - Babylon
 
