@@ -10,6 +10,7 @@ http://sakurasort.github.io/
 
 - SINGLES:
 - Love Ranbu
+- O･TA･KUラブリー伝説
 
 - Crash Over:
 - Sweetskiller
