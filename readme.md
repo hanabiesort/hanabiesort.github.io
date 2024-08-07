@@ -15,6 +15,7 @@ http://sakurasort.github.io/
 - Crash Over:
 - Sweetskiller
 - Babylon
+- メタ盛るフォーゼ！ - Metamorphose!
 
 - Covers:
 - Believer
