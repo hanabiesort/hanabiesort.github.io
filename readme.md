@@ -11,10 +11,12 @@ http://sakurasort.github.io/
 - SINGLES:
 - Love Ranbu
 - O･TA･KUラブリー伝説
-
+- GIRL'S TALK
 - Crash Over:
 - Sweetskiller
 - Babylon
+- メタ盛るフォーゼ！ - Metamorphose!
 
 - Covers:
 - Believer
+- Ado
