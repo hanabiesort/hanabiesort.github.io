@@ -65,9 +65,7 @@ var ary_CharacterData = [
   [1, "Today’s Good Day & So Epic", 			[0,0,1,0,0,0,0,0,0,0], "hanabiesong/reborn.jpg"],
 
   [1, "LOVE  Ranbu",                 			[0,0,0,0,1,0,0,0,0,0], "hanabiesong/loveranb.jpg"],
-  [1, "O･TA･KUラブリー伝説",                 			[0,0,0,0,1,0,0,0,0,0], "hanabiesong/otaku.jpg"],
   [1, "GIRL'S TALK",                 			[0,0,0,0,1,0,0,0,0,0], "hanabiesong/hanabiegirls.jpg"],
-  [1, "メタ盛るフォーゼ！ - Metamorphose!",				[0,0,0,0,1,0,0,0,0,0], "hanabiesong/Metamorphose.jpg"],
   
   [1, "Babylon",                 			[0,0,0,1,0,0,0,0,0,0], "hanabiesong/crashover.jpg"],
   [1, "Sweetskiller",                 			[0,0,0,1,0,0,0,0,0,0], "hanabiesong/crashover.jpg"],    
@@ -81,5 +79,12 @@ var ary_CharacterData = [
   
   [1, "Believer - cover",   					[0,0,0,0,0,1,0,0,0,0], "hanabiesong/believer.jpg"],
   [1, " 踊 / Ado(Band cover Metal ver.)",   					[0,0,0,0,0,1,0,0,0,0], "hanabiesong/adocover.jpg"],
+  
+  [1, "Bucchigiri Tokyo",                 			[0,0,0,0,0,1,0,0,0,0], "hanabiesong/bucchigiri＿tokyo.jpg"],
+  [1, "O･TA･KUラブリー伝説",                 			[0,0,0,0,0,1,0,0,0,0], "hanabiesong/bucchigiri＿tokyo.jpg"],
+  [1, "メタ盛るフォーゼ！ - Metamorphose!",				[0,0,0,0,0,1,0,0,0,0], "hanabiesong/bucchigiri＿tokyo.jpg"],
+  [1, "GAMBLER",				[0,0,0,0,0,1,0,0,0,0], "hanabiesong/bucchigiri＿tokyo.jpg"],
+  [1, "Ito Okashi My Type",				[0,0,0,0,0,1,0,0,0,0], "hanabiesong/bucchigiri＿tokyo.jpg"],
+  [1, "Bonus Guilty Time",				[0,0,0,0,0,1,0,0,0,0], "hanabiesong/bucchigiri＿tokyo.jpg"],
   
 ];
