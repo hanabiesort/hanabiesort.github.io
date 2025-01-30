@@ -7,6 +7,7 @@ http://sakurasort.github.io/
 - Cherry Blossoms Are Blooming - EP
 - Girl’s Reform Manifest - Album
 - Reborn Superstar! - Album
+- bucchigiri＿tokyo - Album.
 
 - SINGLES:
 - Love Ranbu
